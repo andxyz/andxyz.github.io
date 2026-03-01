@@ -7,6 +7,11 @@ group :development do
   gem 'jekyll-feed'
   # gem 'jekyll-paginate'
 
+  # assets
+  gem 'bourbon'
+  gem 'bitters'
+  gem 'neat'
+
   # tasks
   gem 'rake'
 end

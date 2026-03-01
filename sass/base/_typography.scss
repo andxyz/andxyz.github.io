@@ -58,7 +58,7 @@ body {
   }
 }
 
-#{headings()}{
+h1, h2, h3 {
   @extend .heading;
   text-rendering: optimizelegibility;
   margin: 1em 0;
